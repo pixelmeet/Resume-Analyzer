@@ -1,6 +1,16 @@
-# Resume-Analyzer
+# 📊 Resume-Analyzer
 
-> **Quick Start:**
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"/>
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg" alt="Python Version"/>
+  <img src="https://img.shields.io/badge/Streamlit-Enabled-orange.svg" alt="Streamlit"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/placeholder/banner.png" alt="Resume Analyzer Banner" width="80%"/>
+</p>
+
+> **🚀 Quick Start**
 > 
 > 1. **Clone the repository:**
 >    ```bash
@@ -25,14 +35,14 @@
 ---
 
 ## 📑 Table of Contents
-1. [Overview](#overview)
-2. [Key Features](#key-features)
-3. [Who Can Use This?](#who-can-use-this)
-4. [How It Works](#how-it-works)
-5. [Quick Start Guide](#quick-start-guide)
-6. [Step-by-Step Usage](#step-by-step-usage)
-7. [Frequently Asked Questions](#frequently-asked-questions)
-8. [License & Acknowledgements](#license--acknowledgements)
+- [Overview](#-overview)
+- [Key Features](#-key-features)
+- [Who Can Use This?](#-who-can-use-this)
+- [How It Works](#-how-it-works)
+- [Quick Start Guide](#-quick-start-guide)
+- [Step-by-Step Usage](#-step-by-step-usage)
+- [FAQ](#-frequently-asked-questions)
+- [License & Acknowledgements](#-license--acknowledgements)
 
 ---
 
@@ -42,12 +52,12 @@ Resume-Analyzer helps you understand how well your resume matches a job descript
 ---
 
 ## ✨ Key Features
-- **Easy Uploads:** Add your resume (PDF) and job description (PDF or text).
-- **AI-Powered Analysis:** Get a simple, clear report on your fit for the job.
-- **Match Scores:** See how your skills and experience align with the job.
-- **Actionable Tips:** Get suggestions to improve your resume and boost your chances.
-- **ATS Optimization:** Learn how to pass automated resume screeners.
-- **Downloadable Report:** Save your results as a file.
+- 📄 **Easy Uploads:** Add your resume (PDF) and job description (PDF or text).
+- 🤖 **AI-Powered Analysis:** Get a simple, clear report on your fit for the job.
+- 📊 **Match Scores:** See how your skills and experience align with the job.
+- 💡 **Actionable Tips:** Get suggestions to improve your resume and boost your chances.
+- 🏆 **ATS Optimization:** Learn how to pass automated resume screeners.
+- 📥 **Downloadable Report:** Save your results as a file.
 
 ---
 
@@ -70,12 +80,12 @@ Resume-Analyzer helps you understand how well your resume matches a job descript
 ---
 
 ## 🚀 Quick Start Guide
-### Prerequisites
-- Python 3.8 or higher
-- Internet access
-- Free API key from [Google Gemini](https://ai.google.dev/)
+**Prerequisites:**
+- 🐍 Python 3.8 or higher
+- 🌐 Internet access
+- 🔑 Free API key from [Google Gemini](https://ai.google.dev/)
 
-### Installation
+**Installation:**
 1. **Install Python** ([Download here](https://www.python.org/downloads/))
 2. **Install required packages:**
    ```bash
@@ -112,14 +122,21 @@ Resume-Analyzer helps you understand how well your resume matches a job descript
 ---
 
 ## ❓ Frequently Asked Questions
-**Q: Do I need to know how to code?**
-> No! Just follow the steps above.
 
-**Q: Does this work for non-technical jobs?**
-> Yes! It works for any job or field.
+<details>
+<summary><strong>Do I need to know how to code?</strong></summary>
+No! Just follow the steps above.
+</details>
 
-**Q: Is my data safe?**
-> Your files are only used for the analysis and are not shared.
+<details>
+<summary><strong>Does this work for non-technical jobs?</strong></summary>
+Yes! It works for any job or field.
+</details>
+
+<details>
+<summary><strong>Is my data safe?</strong></summary>
+Your files are only used for the analysis and are not shared.
+</details>
 
 ---
 
